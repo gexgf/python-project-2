@@ -1,0 +1,10 @@
+Ile to 2+2?;A) 3;B) 4;C) 5;D) 22;B
+Jaka jest stolica Francji?;A) Berlin;B) Rzym;C) Paryż;D) Madryt;C
+Kto stworzył język Python?;A) Elon Musk;B) Guido van Rossum;C) Bill Gates;D) Steve Jobs;B
+Który kontynent jest największy?;A) Afryka;B) Azja;C) Ameryka Północna;D) Europa;B
+Który pierwiastek chemiczny ma symbol O?;A) Złoto;B) Srebro;C) Tlen;D) Azot;C
+Który kraj słynie z pizzy i makaronu?;A) Hiszpania;B) Grecja;C) Włochy;D) Portugalia;C
+W którym roku rozpoczęła się II wojna światowa?;A) 1937;B) 1939;C) 1941;D) 1945;B
+Jakie jest największe zwierzę na Ziemi?;A) Słoń afrykański;B) Wieloryb błękitny;C) Żyrafa;D) Rekin biały;B
+Który język programowania używa znaków `{}` do bloków kodu?;A) Python;B) C++;C) HTML;D) SQL;B
+Jak nazywa się najdłuższa rzeka na świecie?;A) Nil;B) Amazonka;C) Missisipi;D) Jangcy;B

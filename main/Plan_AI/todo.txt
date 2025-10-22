@@ -1,0 +1,5 @@
+1;kup sol;✔
+2;skos trawe;❌
+3;umyj okna;❌
+4;wywies pranie;✔
+5;umyj rower;❌
