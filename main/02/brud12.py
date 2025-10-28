@@ -7,11 +7,15 @@
 # print(f"{b:.0%}")
 
 
-str = "testing for loops"
-count = 0
+# str = "testing for loops"
+# count = 0
+#
+# for x in str:
+#     if x == 't':
+#         count += 1
+#
+# print(count)
 
-for x in str:
-    if x == 't':
-        count += 1
-
-print(count)
+x = [1, 2, 3, 4]
+x = x[::-1]
+print(x)
